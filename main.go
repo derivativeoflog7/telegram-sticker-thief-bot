@@ -10,7 +10,7 @@ import (
 	"path/filepath"
 	"time"
 
-	telegram "github.com/sgreben/telegram-sticker-thief-bot/internal/telebot.v2"
+	telegram "github.com/derivativeoflog7/telegram-sticker-thief-bot/internal/telebot.v2"
 )
 
 var config struct {
