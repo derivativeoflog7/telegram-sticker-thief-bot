@@ -22,9 +22,9 @@ import (
 
 	"log"
 
-	"github.com/sgreben/telegram-sticker-thief-bot/internal/emoji"
-	"github.com/sgreben/telegram-sticker-thief-bot/internal/imaging"
-	telegram "github.com/sgreben/telegram-sticker-thief-bot/internal/telebot.v2"
+	"github.com/derivativeoflog7/telegram-sticker-thief-bot/internal/emoji"
+	"github.com/derivativeoflog7/telegram-sticker-thief-bot/internal/imaging"
+	telegram "gopkg.in/tucnak/telebot.v2"
 )
 
 type stickerThiefBot struct {
