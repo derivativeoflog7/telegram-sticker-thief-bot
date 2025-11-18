@@ -1,4 +1,4 @@
-module gopkg.in/tucnak/telebot.v2
+module github.com/derivativeoflog7/telegram-sticker-thief-bot/internal/telebot.v2
 
 go 1.11
 
